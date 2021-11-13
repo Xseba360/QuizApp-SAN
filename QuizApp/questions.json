@@ -1,0 +1,344 @@
+﻿{
+  "Config": {
+    "EndOnFirstFailure": true,
+    "MaxQuestionsAsked": 12,
+    "MaxQuestionsPerCategory": 1,
+    "PointCountMode": 2,
+    "RewardPerCategory": [
+      500,
+      500,
+      1000,
+      3000,
+      5000,
+      10000,
+      20000,
+      35000,
+      50000,
+      125000,
+      250000,
+      500000
+    ]
+  },
+  "Questions": [
+    {
+      "Category": 0,
+      "Question": "Na akord można:",
+      "Answers": [
+        "spać",
+        "pracować",
+        "śpiewać",
+        "podróżować"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 0,
+      "Question": "Co kaftan bezpieczeństwa ma znacznie dłuższe niż zwykły kaftan?",
+      "Answers": [
+        "przód",
+        "rękawy",
+        "tył",
+        "kołnierz"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 0,
+      "Question": "Kto na igrzyskach olimpijskich w Pjongczangu nie mógł startować pod flagą własnego kraju?",
+      "Answers": [
+        "Kanadyjczycy",
+        "Szwedzi",
+        "Rosjanie",
+        "Chińczycy"
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 1,
+      "Question": "Trzy z czterech nazw odnoszą się do tego samego oceanu. Która go nie dotyczy?",
+      "Answers": [
+        "Atlantyk",
+        "Ocean Wielki",
+        "Pacyfik",
+        "Spokojny"
+      ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Category": 1,
+      "Question": "Jak to dalej szło? \"Góralu, czy ci nie żal...",
+      "Answers": [
+        "na wódkę wydawać szmal\"",
+        "porzucać lasów i hal\"",
+        "odchodzić od stron ojczystych\"",
+        "regli zostawiać lesistych\""
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 1,
+      "Question": "Ile rodzonych córek miała macocha Kopciuszka w baśni braci Grimm?",
+      "Answers": [
+        "dwie",
+        "trzy",
+        "cztery",
+        "pięć"
+      ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Category": 2,
+      "Question": "\"Musisz przyznać, że jak tatuś zrobi dzióbek, to nie ma... (mhm, mhm) we wsi\" - mówi Adaś Miauczyński:",
+      "Answers": [
+        "demonstrując selfie",
+        "garnirując drób",
+        "poprawiając synowi kaptur",
+        "składając origami"
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 2,
+      "Question": "Co łączy rowerowa szprycha?",
+      "Answers": [
+        "obręcz z dętką",
+        "dętkę z piastą",
+        "piastę z obręczą",
+        "obręcz z widelcem"
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 2,
+      "Question": "Suspens to chwyt stosowany:",
+      "Answers": [
+        "w zapasach",
+        "w grze na gitarze",
+        "we wspinaczce klasycznej",
+        "w filmach"
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Category": 3,
+      "Question": "Które ze świąt dzieli najmniejsza liczba dni od Andrzejek?",
+      "Answers": [
+        "Boże Narodzenie",
+        "Wielkanoc",
+        "Zaduszki",
+        "Święto Trzech Króli"
+      ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Category": 3,
+      "Question": "Jak to dalej szło? \"Opowiem ci bajkę, jak kot palił fajkę, a kocica papierosa...",
+      "Answers": [
+        "kocięta zaś skręta",
+        "w fifce, byle dalej nosa",
+        "upaliła kawał nosa",
+        "te koty zeszły z drogi cnoty"
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 4,
+      "Question": "Lew zabity przez Ramona Mercadera to:",
+      "Answers": [
+        "Simba",
+        "Tołstoj",
+        "Trocki",
+        "Mufasa"
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 4,
+      "Question": "Który z wymienionych nie wystąpił w filmie fabularnym przed prezydenturą?",
+      "Answers": [
+        "Donald Trump",
+        "Ronald Reagan",
+        "Lech Kaczyński",
+        "Valcav Havel"
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Category": 5,
+      "Question": "Kiedy rozpoczęło się drugie tysiąclecie?",
+      "Answers": [
+        "1 stycznia 1000 r.",
+        "1 stycznia 1001 r.",
+        "1 stycznia 2000 r.",
+        "1 stycznia 2001 r."
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 5,
+      "Question": "Który instrument stroi muzyk?",
+      "Answers": [
+        "tamburyn",
+        "kocioł",
+        "okarynę",
+        "czynele"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 5,
+      "Question": "Z gry na jakim instrumencie słynie Czesław Mozil?",
+      "Answers": [
+        "na kornecie",
+        "na akordeonie",
+        "na djembe",
+        "na ksylofonie"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 5,
+      "Question": "Ile to jest 1111 razy 1111, jeśli 1 razy 1 to 1, a 11 razy 11 to 121?",
+      "Answers": [
+        "12321",
+        "1 234 321",
+        "111 111 111",
+        "123 434 321"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 6,
+      "Question": "Kto jest mistrzem tego samego oręża, w jakim specjalizowała się mitologiczna Artemida?",
+      "Answers": [
+        "Zorro",
+        "Legolas",
+        "Don Kichot",
+        "Longinus Podbipięta"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 6,
+      "Question": "Komiksowym \"dzieckiem\" rysownika Boba Kane'a jest:",
+      "Answers": [
+        "Superman",
+        "Batman",
+        "Spider-Man",
+        "Captain America"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 7,
+      "Question": "Skąd pochodził Conan Barbarzyńca?",
+      "Answers": [
+        "z Rivii",
+        "z Oz",
+        "z Mordoru",
+        "z Cimmerii"
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Category": 7,
+      "Question": "Co według Leszka Kołakowskiego jest sklepieniem domu, w którym duch ludzki mieszka?",
+      "Answers": [
+        "Rozum",
+        "Bóg",
+        "Miłość",
+        "Czas"
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Category": 8,
+      "Question": "Odrażający drab z Kabaretu Starszych Panów dubeltówkę weźmie, wyjdzie i...:",
+      "Answers": [
+        "rach-ciach!",
+        "buch, buch!",
+        "z rur dwóch",
+        "bum w brzuch"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 8,
+      "Question": "Który aktor urodził się w roku opatentowania kinematografu braci Lumière?",
+      "Answers": [
+        "Rudolph Valentino",
+        "Humphrey Bogart",
+        "Charlie Chaplin",
+        "Fred Astaire"
+      ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Category": 9,
+      "Question": "Mowa w obronie poety Archiasza przeszła do historii jako jeden z najświetniejszych popisów retorycznych:",
+      "Answers": [
+        "Izokratesa",
+        "Cycerona",
+        "Demostenesa",
+        "Kwintyliana"
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Category": 9,
+      "Question": "Likier maraskino produkuje się z maraski, czyli odmiany:",
+      "Answers": [
+        "wiśni",
+        "jabłoni",
+        "figi",
+        "gruszy"
+      ],
+      "CorrectAnswer": 0
+    },
+    {
+      "Category": 10,
+      "Question": "Który utwór Juliusza Słowackiego napisany jest prozą?",
+      "Answers": [
+        "\"Godzina myśli\"",
+        "\"W Szwajcarii\"",
+        "\"Anhelli\"",
+        "\"Arab\""
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 10,
+      "Question": "\"Wątróbka z cebulką (...) jest zakąską doskonałą. Aby ją przyrządzić, należy kupić samochód i pędzić nim póty, aż się kogoś przejedzie\". To Lem i...",
+      "Answers": [
+        "\"Solaris\"",
+        "\"Opowieści o pilocie Pirxie\"",
+        "\"Dyktanda, czyli...\"",
+        "\"Szpital przemienienia\""
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Category": 11,
+      "Question": "Który ssak się nie spoci?",
+      "Answers": [
+        "Owca",
+        "Koń",
+        "Człowiek",
+        "Królik"
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Category": 11,
+      "Question": "Różańcową tajemnicą chwalebną nie jest...",
+      "Answers": [
+        "Wniebowzięcie Matki Bożej",
+        "Zmartwychwstanie Jezusa",
+        "Śmierć Jezusa na krzyżu",
+        "Zesłanie Ducha Świętego"
+      ],
+      "CorrectAnswer": 0
+    }
+  ]
+
+}
