@@ -10,19 +10,19 @@ namespace QuizApp.Backend
         /// If 0 or lower, there is no limit.
         /// If above 0, when this amount is reached, the quiz is over.
         /// </summary>
-        public int MaxQuestionsAsked { get; set; } 
-        
+        public int MaxQuestionsAsked { get; set; }
+
         /// <summary>
         /// End the quiz on first failure
         /// </summary>
-        public bool EndOnFirstFailure { get; set; } 
-        
+        public bool EndOnFirstFailure { get; set; }
+
         /// <summary>
         /// If 0 or lower, all questions need to be answered before proceeding to the next category.
         /// If above 0, this amount of questions need to be <b>ANSWERED</b> before proceeding the next category.
         /// </summary>
-        public int MaxQuestionsPerCategory { get; set; } 
-        
+        public int MaxQuestionsPerCategory { get; set; }
+
         /// <summary>
         /// <ul>
         ///     <li>0 -> All questions get equal amount of points</li>
@@ -38,13 +38,13 @@ namespace QuizApp.Backend
         /// <seealso cref="QuizPointCountModes"/>
         /// <seealso cref="RewardPerCategory"/>
         public int PointCountMode { get; set; }
-        
+
         /// <summary>
         /// Index is Category ID. Value is Reward that is added to current winnings.<br></br>
         /// For example:<br></br>
         /// Current winnings are 40000<br></br>
         /// We want the total winnings on next question to be 75000 so we write the reward as 35000<br></br>
         /// </summary>
-        public int[] RewardPerCategory { get; set; } 
+        public int[] RewardPerCategory { get; set; }
     }
 }

@@ -10,14 +10,17 @@ namespace QuizApp.Backend
         /// The category ID of the question
         /// </summary>
         public int Category { get; set; }
+
         /// <summary>
         /// Text of the question
         /// </summary>
         public string Question { get; set; }
+
         /// <summary>
         /// Array of possible answers
         /// </summary>
         public string[] Answers { get; set; }
+
         /// <summary>
         /// Index of the correct answer from the questions above
         /// </summary>

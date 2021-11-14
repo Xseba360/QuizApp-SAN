@@ -5,7 +5,7 @@ namespace QuizApp.Cli
 {
     internal static class Program
     {
-        private static void Main(/*string[] args*/)
+        private static void Main( /*string[] args*/)
         {
             Console.OutputEncoding = Encoding.UTF8;
             /*if (args != null)
