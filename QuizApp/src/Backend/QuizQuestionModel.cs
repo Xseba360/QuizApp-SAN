@@ -22,7 +22,7 @@ namespace QuizApp.Backend
         public string[] Answers { get; set; }
 
         /// <summary>
-        /// Index of the correct answer from the questions above
+        /// Index of the correct answer from the answers
         /// </summary>
         public int CorrectAnswer { get; set; }
     }
